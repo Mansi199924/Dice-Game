@@ -12,3 +12,5 @@ Reset: All the scores are set to 0 and Player 1 is set as the starting player (c
 
 ![image_1](https://user-images.githubusercontent.com/51586639/126911589-ef60ab3f-856d-46d1-ba3e-77fb2e556a56.png)
 
+
+![image_2](https://user-images.githubusercontent.com/51586639/126911707-f7222850-c531-4a36-90a6-2a61c559d6cf.png)
