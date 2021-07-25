@@ -9,5 +9,6 @@ Hold: If the current player clicks on HOLD, then the Current Score will be added
 
 Reset: All the scores are set to 0 and Player 1 is set as the starting player (current player).
 
+
 ![image_1](https://user-images.githubusercontent.com/51586639/126911589-ef60ab3f-856d-46d1-ba3e-77fb2e556a56.png)
 
