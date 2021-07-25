@@ -8,3 +8,6 @@ Roll the dice: The current player has to roll the dice and then a random number 
 Hold: If the current player clicks on HOLD, then the Current Score will be added to the Total Score. When the active player clicks the Hold button then the total score is evaluated. If the Total Score >= WinningScore then the current player wins else the players are switched.
 
 Reset: All the scores are set to 0 and Player 1 is set as the starting player (current player).
+
+https://github.com/Mansi199924/Dice-Game/issues/1#issue-952343400
+
